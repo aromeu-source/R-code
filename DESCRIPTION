@@ -1,0 +1,11 @@
+Package: TECtest
+Type: Package
+Title: Symbolic Transfer Entropy Causality Test for Panel Data
+Version: 0.1.0
+Author: Andres Romeu
+Maintainer: Andres Romeu <aromeu@um.es>
+Description: This package computes the symbolic transfer entropy causality test as 
+    described in Caamcho, Romeu, Ruiza-Marin (2019).  
+License: Copyleft
+Encoding: UTF-8
+LazyData: true

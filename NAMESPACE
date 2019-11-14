@@ -1,0 +1,3 @@
+exportPattern("^[[:alpha:]]+")
+importFrom("stats", "acf", "ccf", "complete.cases", "ftable", "qnorm")
+importFrom("utils", "setTxtProgressBar", "txtProgressBar")
